@@ -11,9 +11,6 @@
     "imports": [
       "_vue.js"
     ],
-    "dynamicImports": [
-      "src/views/PlayersView.vue"
-    ],
     "assets": [
       "assets/01.jpg",
       "assets/03.jpg",
@@ -106,16 +103,6 @@
   "src/assets/img/03.jpg": {
     "file": "assets/03.jpg",
     "src": "src/assets/img/03.jpg"
-  },
-  "src/views/PlayersView.vue": {
-    "file": "assets/PlayersView.js",
-    "name": "PlayersView",
-    "src": "src/views/PlayersView.vue",
-    "isDynamicEntry": true,
-    "imports": [
-      "index.html",
-      "_vue.js"
-    ]
   },
   "style.css": {
     "file": "assets/style.css",
