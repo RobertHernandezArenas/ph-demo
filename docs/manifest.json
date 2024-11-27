@@ -1,0 +1,380 @@
+{
+  "src/assets/fonts/Poppins/Poppins-LightItalic.woff2": {
+    "file": "assets/Poppins-LightItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-LightItalic.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraLight.woff2": {
+    "file": "assets/Poppins-ExtraLight.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraLight.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-Regular.woff2": {
+    "file": "assets/Poppins-Regular.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-Regular.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-Italic.woff2": {
+    "file": "assets/Poppins-Italic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-Italic.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraBold.woff2": {
+    "file": "assets/Poppins-ExtraBold.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraBold.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-BoldItalic.woff2": {
+    "file": "assets/Poppins-BoldItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-BoldItalic.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-Black.woff2": {
+    "file": "assets/Poppins-Black.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-Black.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-Medium.woff2": {
+    "file": "assets/Poppins-Medium.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-Medium.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-SemiBoldItalic.woff2": {
+    "file": "assets/Poppins-SemiBoldItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-SemiBoldItalic.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraBoldItalic.woff2": {
+    "file": "assets/Poppins-ExtraBoldItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraBoldItalic.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-Bold.woff2": {
+    "file": "assets/Poppins-Bold.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-Bold.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-MediumItalic.woff2": {
+    "file": "assets/Poppins-MediumItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-MediumItalic.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-Thin.woff2": {
+    "file": "assets/Poppins-Thin.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-Thin.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-SemiBold.woff2": {
+    "file": "assets/Poppins-SemiBold.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-SemiBold.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-ThinItalic.woff2": {
+    "file": "assets/Poppins-ThinItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-ThinItalic.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraLightItalic.woff2": {
+    "file": "assets/Poppins-ExtraLightItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraLightItalic.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-Bold.woff2": {
+    "file": "assets/Outfit-Bold.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-Bold.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-ExtraLight.woff2": {
+    "file": "assets/Outfit-ExtraLight.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-ExtraLight.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-Light.woff2": {
+    "file": "assets/Poppins-Light.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-Light.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-Thin.woff2": {
+    "file": "assets/Outfit-Thin.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-Thin.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-Regular.woff2": {
+    "file": "assets/Outfit-Regular.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-Regular.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-ExtraBold.woff2": {
+    "file": "assets/Outfit-ExtraBold.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-ExtraBold.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-Light.woff2": {
+    "file": "assets/Outfit-Light.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-Light.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-BlackItalic.woff2": {
+    "file": "assets/Poppins-BlackItalic.woff2",
+    "src": "src/assets/fonts/Poppins/Poppins-BlackItalic.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-Medium.woff2": {
+    "file": "assets/Outfit-Medium.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-Medium.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-Black.woff2": {
+    "file": "assets/Outfit-Black.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-Black.woff2"
+  },
+  "src/assets/fonts/Outfit/Outfit-SemiBold.woff2": {
+    "file": "assets/Outfit-SemiBold.woff2",
+    "src": "src/assets/fonts/Outfit/Outfit-SemiBold.woff2"
+  },
+  "src/assets/fonts/Oswald/Oswald-Regular.woff2": {
+    "file": "assets/Oswald-Regular.woff2",
+    "src": "src/assets/fonts/Oswald/Oswald-Regular.woff2"
+  },
+  "src/assets/fonts/Oswald/Oswald-Medium.woff2": {
+    "file": "assets/Oswald-Medium.woff2",
+    "src": "src/assets/fonts/Oswald/Oswald-Medium.woff2"
+  },
+  "src/assets/fonts/Oswald/Oswald-Bold.woff2": {
+    "file": "assets/Oswald-Bold.woff2",
+    "src": "src/assets/fonts/Oswald/Oswald-Bold.woff2"
+  },
+  "src/assets/fonts/Oswald/Oswald-SemiBold.woff2": {
+    "file": "assets/Oswald-SemiBold.woff2",
+    "src": "src/assets/fonts/Oswald/Oswald-SemiBold.woff2"
+  },
+  "src/assets/fonts/Oswald/Oswald-Light.woff2": {
+    "file": "assets/Oswald-Light.woff2",
+    "src": "src/assets/fonts/Oswald/Oswald-Light.woff2"
+  },
+  "src/assets/fonts/Oswald/Oswald-ExtraLight.woff2": {
+    "file": "assets/Oswald-ExtraLight.woff2",
+    "src": "src/assets/fonts/Oswald/Oswald-ExtraLight.woff2"
+  },
+  "src/assets/fonts/Poppins/Poppins-LightItalic.woff": {
+    "file": "assets/Poppins-LightItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-LightItalic.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-Regular.woff": {
+    "file": "assets/Poppins-Regular.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-Regular.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraLight.woff": {
+    "file": "assets/Poppins-ExtraLight.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraLight.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-Italic.woff": {
+    "file": "assets/Poppins-Italic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-Italic.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraBold.woff": {
+    "file": "assets/Poppins-ExtraBold.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraBold.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-BoldItalic.woff": {
+    "file": "assets/Poppins-BoldItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-BoldItalic.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-Black.woff": {
+    "file": "assets/Poppins-Black.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-Black.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-SemiBoldItalic.woff": {
+    "file": "assets/Poppins-SemiBoldItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-SemiBoldItalic.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-Medium.woff": {
+    "file": "assets/Poppins-Medium.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-Medium.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-Bold.woff": {
+    "file": "assets/Poppins-Bold.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-Bold.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraBoldItalic.woff": {
+    "file": "assets/Poppins-ExtraBoldItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraBoldItalic.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-MediumItalic.woff": {
+    "file": "assets/Poppins-MediumItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-MediumItalic.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-Thin.woff": {
+    "file": "assets/Poppins-Thin.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-Thin.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-SemiBold.woff": {
+    "file": "assets/Poppins-SemiBold.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-SemiBold.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-Bold.woff": {
+    "file": "assets/Outfit-Bold.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-Bold.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-ExtraLight.woff": {
+    "file": "assets/Outfit-ExtraLight.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-ExtraLight.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-ThinItalic.woff": {
+    "file": "assets/Poppins-ThinItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-ThinItalic.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-ExtraLightItalic.woff": {
+    "file": "assets/Poppins-ExtraLightItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-ExtraLightItalic.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-Thin.woff": {
+    "file": "assets/Outfit-Thin.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-Thin.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-Regular.woff": {
+    "file": "assets/Outfit-Regular.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-Regular.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-ExtraBold.woff": {
+    "file": "assets/Outfit-ExtraBold.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-ExtraBold.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-Light.woff": {
+    "file": "assets/Outfit-Light.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-Light.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-Medium.woff": {
+    "file": "assets/Outfit-Medium.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-Medium.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-Black.woff": {
+    "file": "assets/Outfit-Black.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-Black.woff"
+  },
+  "src/assets/fonts/Outfit/Outfit-SemiBold.woff": {
+    "file": "assets/Outfit-SemiBold.woff",
+    "src": "src/assets/fonts/Outfit/Outfit-SemiBold.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-BlackItalic.woff": {
+    "file": "assets/Poppins-BlackItalic.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-BlackItalic.woff"
+  },
+  "src/assets/fonts/Oswald/Oswald-Regular.woff": {
+    "file": "assets/Oswald-Regular.woff",
+    "src": "src/assets/fonts/Oswald/Oswald-Regular.woff"
+  },
+  "src/assets/fonts/Poppins/Poppins-Light.woff": {
+    "file": "assets/Poppins-Light.woff",
+    "src": "src/assets/fonts/Poppins/Poppins-Light.woff"
+  },
+  "src/assets/fonts/Oswald/Oswald-Medium.woff": {
+    "file": "assets/Oswald-Medium.woff",
+    "src": "src/assets/fonts/Oswald/Oswald-Medium.woff"
+  },
+  "src/assets/fonts/Oswald/Oswald-Bold.woff": {
+    "file": "assets/Oswald-Bold.woff",
+    "src": "src/assets/fonts/Oswald/Oswald-Bold.woff"
+  },
+  "src/assets/fonts/Oswald/Oswald-SemiBold.woff": {
+    "file": "assets/Oswald-SemiBold.woff",
+    "src": "src/assets/fonts/Oswald/Oswald-SemiBold.woff"
+  },
+  "src/assets/fonts/Oswald/Oswald-Light.woff": {
+    "file": "assets/Oswald-Light.woff",
+    "src": "src/assets/fonts/Oswald/Oswald-Light.woff"
+  },
+  "src/assets/fonts/Oswald/Oswald-ExtraLight.woff": {
+    "file": "assets/Oswald-ExtraLight.woff",
+    "src": "src/assets/fonts/Oswald/Oswald-ExtraLight.woff"
+  },
+  "index.html": {
+    "file": "assets/index.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vue.js"
+    ],
+    "dynamicImports": [
+      "src/pages/BiographyView.vue",
+      "src/pages/GalleryView.vue",
+      "src/pages/ContactView.vue"
+    ],
+    "assets": [
+      "assets/Poppins-LightItalic.woff2",
+      "assets/Poppins-LightItalic.woff",
+      "assets/Poppins-Black.woff2",
+      "assets/Poppins-Black.woff",
+      "assets/Poppins-BoldItalic.woff2",
+      "assets/Poppins-BoldItalic.woff",
+      "assets/Poppins-ExtraLight.woff2",
+      "assets/Poppins-ExtraLight.woff",
+      "assets/Poppins-Italic.woff2",
+      "assets/Poppins-Italic.woff",
+      "assets/Poppins-Regular.woff2",
+      "assets/Poppins-Regular.woff",
+      "assets/Poppins-ExtraBold.woff2",
+      "assets/Poppins-ExtraBold.woff",
+      "assets/Poppins-SemiBoldItalic.woff2",
+      "assets/Poppins-SemiBoldItalic.woff",
+      "assets/Poppins-Medium.woff2",
+      "assets/Poppins-Medium.woff",
+      "assets/Poppins-Thin.woff2",
+      "assets/Poppins-Thin.woff",
+      "assets/Poppins-ExtraBoldItalic.woff2",
+      "assets/Poppins-ExtraBoldItalic.woff",
+      "assets/Poppins-ExtraLightItalic.woff2",
+      "assets/Poppins-ExtraLightItalic.woff",
+      "assets/Poppins-ThinItalic.woff2",
+      "assets/Poppins-ThinItalic.woff",
+      "assets/Poppins-Bold.woff2",
+      "assets/Poppins-Bold.woff",
+      "assets/Poppins-SemiBold.woff2",
+      "assets/Poppins-SemiBold.woff",
+      "assets/Poppins-MediumItalic.woff2",
+      "assets/Poppins-MediumItalic.woff",
+      "assets/Poppins-Light.woff2",
+      "assets/Poppins-Light.woff",
+      "assets/Poppins-BlackItalic.woff2",
+      "assets/Poppins-BlackItalic.woff",
+      "assets/Outfit-Bold.woff2",
+      "assets/Outfit-Bold.woff",
+      "assets/Outfit-ExtraLight.woff2",
+      "assets/Outfit-ExtraLight.woff",
+      "assets/Outfit-Thin.woff2",
+      "assets/Outfit-Thin.woff",
+      "assets/Outfit-Regular.woff2",
+      "assets/Outfit-Regular.woff",
+      "assets/Outfit-Light.woff2",
+      "assets/Outfit-Light.woff",
+      "assets/Outfit-ExtraBold.woff2",
+      "assets/Outfit-ExtraBold.woff",
+      "assets/Outfit-Black.woff2",
+      "assets/Outfit-Black.woff",
+      "assets/Outfit-SemiBold.woff2",
+      "assets/Outfit-SemiBold.woff",
+      "assets/Outfit-Medium.woff2",
+      "assets/Outfit-Medium.woff",
+      "assets/Oswald-Regular.woff2",
+      "assets/Oswald-Regular.woff",
+      "assets/Oswald-Bold.woff2",
+      "assets/Oswald-Bold.woff",
+      "assets/Oswald-SemiBold.woff2",
+      "assets/Oswald-SemiBold.woff",
+      "assets/Oswald-Medium.woff2",
+      "assets/Oswald-Medium.woff",
+      "assets/Oswald-ExtraLight.woff2",
+      "assets/Oswald-ExtraLight.woff",
+      "assets/Oswald-Light.woff2",
+      "assets/Oswald-Light.woff"
+    ]
+  },
+  "_vue.js": {
+    "file": "assets/vue.js"
+  },
+  "src/pages/BiographyView.vue": {
+    "file": "assets/BiographyView.js",
+    "src": "src/pages/BiographyView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vue.js"
+    ]
+  },
+  "src/pages/GalleryView.vue": {
+    "file": "assets/GalleryView.js",
+    "src": "src/pages/GalleryView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vue.js"
+    ]
+  },
+  "src/pages/ContactView.vue": {
+    "file": "assets/ContactView.js",
+    "src": "src/pages/ContactView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vue.js",
+      "index.html"
+    ]
+  },
+  "style.css": {
+    "file": "assets/style.css",
+    "src": "style.css"
+  }
+}

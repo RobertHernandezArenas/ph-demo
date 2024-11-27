@@ -1,0 +1,1 @@
+{"version":3,"file":"GalleryView.js","sources":["../../src/pages/GalleryView.vue"],"sourcesContent":["<template>\r\n\t<div class=\"gallery\">\r\n\r\n\t</div>\r\n</template>\r\n\r\n<script setup>\r\n\r\n</script>\r\n\r\n<style scoped>\r\n\r\n</style>"],"names":["_sfc_render","_ctx","_cache"],"mappings":"6FACC,SAAAA,EAAAC,EAAAC,EAAA"}

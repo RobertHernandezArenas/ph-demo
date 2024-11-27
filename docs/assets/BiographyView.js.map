@@ -1,0 +1,1 @@
+{"version":3,"file":"BiographyView.js","sources":["../../src/pages/BiographyView.vue"],"sourcesContent":["<template>\r\n\t<section class=\"biography\"></section>\r\n</template>\r\n\r\n<script setup>\r\nimport { onMounted } from 'vue';\r\n\r\nonMounted(() => {});\r\n</script>\r\n\r\n<style scoped></style>\r\n"],"names":["onMounted"],"mappings":"qGAOA,OAAAA,EAAU,IAAM,CAAE,CAAA"}
